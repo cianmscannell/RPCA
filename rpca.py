@@ -8,7 +8,6 @@ def rpca(M,lam):
     # computes rpca separation of M into L and S using the parameter lam
 
     # this uses the alternating directions augmented method of multipliers
-    # as described in my blog 
 
 
     Nr = M.shape[0]
